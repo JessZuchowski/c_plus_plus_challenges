@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CompareTheTriplets.cpp" />
     <ClCompile Include="SimpleArraySum.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

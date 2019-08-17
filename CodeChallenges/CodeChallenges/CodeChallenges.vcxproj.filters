@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\challenge1">
+      <UniqueIdentifier>{1d9b6e4d-9c8e-498b-8279-1e6ae4ae54f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\challenge2">
+      <UniqueIdentifier>{b8188dec-7ac0-4079-ab86-5236c1898ad9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SimpleArraySum.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\challenge1</Filter>
+    </ClCompile>
+    <ClCompile Include="CompareTheTriplets.cpp">
+      <Filter>Source Files\challenge2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
