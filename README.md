@@ -2,4 +2,4 @@
 
 ## C++ Code Challenges
 
-Working my way through [HackerRank](https://www.hackerrank.com) practice challenges.
+Working my way through [HackerRank](https://www.hackerrank.com) proficiency and practice challenges to learn C++.
